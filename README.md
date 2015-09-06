@@ -19,11 +19,11 @@ Append the content of `cms_urls.py` to `edx-platform/cms/urls.py`:
 
 Install the node.js depeneencies:
 
-   $ npm install
+    $ npm install
    
 Run the BrowserSync server:
 
-   $ gulp
+    $ gulp
 
 
 Run the cms server:
