@@ -27,4 +27,5 @@ Run the BrowserSync server:
 
 
 Run the cms server:
-   $ paver devstack studio
+
+    $ paver devstack studio
